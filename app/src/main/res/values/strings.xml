@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">KotlinRestAPIJson</string>
+    <string name="CREATOR">Creator Name</string>
+    <string name="LIKES">Likes</string>
+</resources>
